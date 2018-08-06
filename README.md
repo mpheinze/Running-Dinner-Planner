@@ -1,2 +1,4 @@
 # Running-Dinner-Planner
 This project builds a calculator that helps plan a Running Dinner event.
+
+A Running Dinner event is a dinner where you participate as a group and get matched up with different groups for each course of the dinner. You will then have the starter, main course, and dessert with completely different sets of people. Each group must host exactly one course during the event, and the amount of group overlap between courses should be avoided or minimized. This calculator helps the organizer calculate a dinner plan that will place the groups according to the given restrictions. The problem is analogous to solving a Sudoku algorithmically.
